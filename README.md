@@ -1,7 +1,6 @@
 # Final-project
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project will be an application that makes it simple for users to create resumes. Usually, people struggle with formatting, which limits their resume. This app would allow users to solely focus on just the content.
 
 ## Prerequisites
 
