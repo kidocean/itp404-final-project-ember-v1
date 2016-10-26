@@ -1,0 +1,1 @@
+/Users/kid.ocean/Downloads/Final_Project/tmp/broccoli_merge_trees-input_base_path-hbx6qO5l.tmp/0/final-project/tests/helpers/destroy-app.js
